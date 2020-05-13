@@ -4,7 +4,7 @@
 There are several scripts which you can utilize:
 - `fetch` - fetches all base datasets, saves them in `datasets` folder
 - `make_overview` - generates an overview (covid vs countries) table from basic datasets
-- `analyze_overview` - analyzes generated overview (foundations for covid confirmed susceptible gain distribution)
+- `analyze_gain_dist` - creates a pdf document with gain distributions for each country
 
 ## Overview table explained
 When you generate overview table, it has these columns:
